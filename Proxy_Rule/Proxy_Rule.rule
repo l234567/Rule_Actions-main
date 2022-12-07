@@ -1017,14 +1017,14 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 02:08:31
+# UPDATED: 2022-12-07 22:38:26
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37350
+# DOMAIN-SUFFIX: 37356
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37719
+# TOTAL: 37725
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -1226,14 +1226,14 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 02:08:31
+# UPDATED: 2022-12-07 22:38:26
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37350
+# DOMAIN-SUFFIX: 37356
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # USER-AGENT: 45
-# TOTAL: 37719
+# TOTAL: 37725
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -4449,6 +4449,7 @@ xz.pphimalayanrt.com
 .adsenseformobileapps.com
 .adshoppeevents.com
 .adss.asia
+.adtidy.org
 .adult-cartoon-sex.com
 .adult-empire.com
 .adult-list.com
@@ -19429,6 +19430,8 @@ xz.pphimalayanrt.com
 .kuaisantui.cf
 .kuaixian.me
 .kuanyu.host56.com
+.kubakuba.global
+.kubakuba1996.com
 .kubeacademy.com
 .kubeapps.com
 .kubernetes.io
@@ -29726,6 +29729,9 @@ xz.pphimalayanrt.com
 .tigerpvp.ga
 .tigervpn.com
 .tik-tokapi.com
+.tiktok.com
+.tiktokcdn.com
+.tiktokv.com
 .tiltbrush.com
 .timc.idv.tw
 .timdir.com
@@ -38758,12 +38764,12 @@ xz.pphimalayanrt.com
 # NAME: WeChat
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:12:30
+# UPDATED: 2022-12-07 22:39:35
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 12
-# IP-CIDR: 9
+# IP-CIDR: 10
 # USER-AGENT: 2
-# TOTAL: 24
+# TOTAL: 25
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,servicewechat.com
@@ -38788,6 +38794,7 @@ IP-CIDR,101.32.133.209/32,no-resolve
 IP-CIDR,101.32.133.53/32,no-resolve
 IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
+IP-CIDR,162.62.163.63/32,no-resolve
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
